@@ -4,4 +4,4 @@ import Team from "./Team"
 import Help_page from "./Help_page"
 import Contact from "./Contact"
 
-export { Hero, Deadline_page, Team, Help_page, Contact }
+export { Hero, DeadlinePage, Team, Help_page, Contact }
